@@ -1,0 +1,79 @@
+person:
+
+    - !!models.Person
+        id:     1
+        gender:   Donald Duck
+        name:  Mr. Temperament
+        address:  donald.duck@disney.com
+
+    - !!models.Person
+        id:     2
+        gender:   Mickey Mouse
+        name:  Detective
+        address:  mickey.mouse@disney.com
+
+    - !!models.Person
+        id:     3
+        gender:   Carl Barks
+        name:  Illustrator
+        address:  carl.barks@disney.com
+
+    - !!models.Person
+        id:     4
+        gender:   Don Rosa
+        name:  Illustrator
+        address:  don.rosa@disney.com
+
+    - !!models.Person
+        id:     5
+        gender:   Goofy
+        name:  Anthropomorphic dog
+        address:  goofy@disney.com
+
+    - !!models.Person
+        id:     6
+        gender:   Pluto
+        name:  Mickeys Dog
+        address:  pluto@disney.com
+
+    - !!models.Person
+        id:     7
+        gender:   Arizona Goof
+        name:  Archaeologist
+        address:  a.goof@disney.com
+
+    - !!models.Person
+        id:     8
+        gender:   Grandma Duck
+        name:  Grandma
+        address:  grandma@disney.com
+
+    - !!models.Person
+        id:     9
+        gender:   Gladstone Gander
+        name:  Lucky guy
+        address:  gladstone.gander@disney.com
+
+    - !!models.Person
+        id:     10
+        gender:   Fethry Duck
+        name:  Beatnik
+        address:  fethry.duck@disney.com
+
+    - !!models.Person
+        id:     11
+        gender:   Daisy Duck
+        name:  Donald's girlfriend
+        address:  daisy.duck@disney.com
+
+    - !!models.Person
+        id:     12
+        gender:   Scrooge McDuck
+        name:  Business duck
+        address:  scrooge.mcduck@disney.com
+
+    - !!models.Person
+        id:     13
+        gender:   Ludwig von Drake
+        name:  Professor
+        address:  ludwig.drake@disney.com
